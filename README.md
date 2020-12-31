@@ -1,7 +1,7 @@
-I'm xiaohuilam, a php programmer and know a little about VueJS.
+I'm Bruce Lam, 
 
-I'm the Co-Founder of DigitalSign® PKI China ([https://www.ssls.com.cn](https://www.ssls.com.cn)).
+Entrepreneur、 Co-Founder & Programmer working for [Digitalsign](https://www.ssls.com.cn) and [Quantum CA](https://www.quantumsecure.cn).
  
-I am a rookie flying low. Keep flying...
+I am a poverty rookie flying low. Keep flying...
 
-###### I'm still here : [QQ]() / [Medium]() / [Wechat]()
+
